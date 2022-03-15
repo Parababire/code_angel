@@ -1,0 +1,27 @@
+html {
+    font-size: 22px;
+}
+body {
+    background-color: #333;
+    color: whitesmoke;
+}
+#title {
+    text-align: center;
+}
+#head {
+    text-align: center;
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 10px;
+}
+#img-caption {
+    background-color: #333;
+}
